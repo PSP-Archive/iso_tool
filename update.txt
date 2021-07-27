@@ -1,0 +1,287 @@
+*1.53
+[UPDATE] ISO/CSO/UMDのファイル特定ルーチンを書換え
+
+*1.52 欠番
+
+*1.51
+[UPDATE] GOD EATERにアップデート用のEBOOT.BINをインポートする際、フリーズ回避パッチも自動的に当てるようにした
+
+*1.50
+[NEW] PBOOT.PBPからEBOOT.BINとPARAM.SFOの抽出機能を追加(Special Thanks to hrimfaxi)
+      ms0:/ENC/EBOOT.BINとms0:/ENC/PARAM.SFOを保存します
+      左右のキーでフォルダを変更し、ms0:/PSP/GAME以下にあるPBOOT.PBPで○ボタンを押すとメニューが表示されます
+      ※少し反応が鈍いのですが、今後修正します
+
+[NEW] EBOOT.BINのインポート機能を追加(Special Thanks to hrimfaxi)
+      ms0:/DEC/EBOOT.BINとms0:/ENC/PARAM.SFOをインポートします
+      EBOOT.OLDがあった場合はそちらを変更します
+      元のサイズより大きくなっている場合は、ISOの最後に追加するので、ISOのファイルサイズが大きくなります
+      別のゲームのファイルを上書きしないように注意して下さい
+
+※上記の2機能とPSPCipherを利用することにより、アップデートを適用することが出来ます
+  1)対応するPBOOT.PBPをms0:/PSP/GAME以下から探して、「EBOOT.BIN書出し」を行う
+  2)iso_toolを終了して、PSPCipherを起動、EBOOT.BINの変換を行う
+  3)再度iso_toolを起動し、適用したいISOにて「EBOOT.BIN」インポートを行う
+  ※prometheusパッチも状況によっては必要ですが、一度実行していれば必要ありません
+
+*1.43
+[UPDATE] GOD EATERにprometheusパッチをあてる際、フリーズ回避パッチも自動的に当てるようにした
+         UMD IDで判断しています「ULJS-00237」のみ対象です
+
+[UPDATE] prometheus復旧の際に、復号化前の状態に戻す様に変更
+
+*1.42
+[BUG] UMDGEN等でISOの再構築が出来なかったバグを修正
+
+*1.41
+[UPDATE] prx等の設置場所をDATA以下のフォルダに変更
+[UPDATE] KHBBSの場合は専用のprometheus.prxを利用するように変更
+	フォルダ構成は以下になります
+	(*)は起動に必須のファイルです
+
+	----iso_tool--+--BACKUP(バックアップ用・無い場合は自動で作成されます)
+                  |
+                  +--DATA--+--prometheus--+--KHBBS--prometheus.prx
+                  |        |              +--prometheus.prx
+                  |        |              +--EBOOT.BIN
+                  |        |
+                  |        +--prx--+--libfont.prx
+                  |                +--libpsmfplayer.prx
+                  |                +--psmf.prx
+                  |
+                  +--EBOOT.PBP(*)
+                  +--pspdecrypt.prx(*)
+                  +--UMD_ID.csv
+                  +--readme.txt
+                  +--update.txt
+
+*1.40
+[UPDATE] パッチとprxインポートをサブメニューに移動
+[NEW] libfont.prx, libpsmfplayer.prx, psmf.prxのインポートに対応
+		GOD EATERの場合は吸出した状態のISOに
+			パッチ→prometheusパッチ
+			prxインポート→libfont.prx
+		で起動できるようになります
+      iso_tool本体と同じ場所にlibfont.prx/libpsmfplayer.prx/psmf.prx必要です
+	  ※これらのprxファイルは念のため同梱しませんので、それぞれ入手して下さい
+
+*1.33
+[UPDATE] GOD EATERパッチを廃止
+[NEW] libfont patch / libfont 復旧を追加
+      libfont.prxの復号とKernel_LibrarZのパッチを行います
+
+      パッチが複雑になってしまったので、ここで整理
+
+      usersyslib.prxを利用する場合
+      	sceUtilityOパッチを利用(事前に復号が必要)
+
+      KHBBS_patch.prxを利用する場合
+      	Kernel_LibrarZパッチを利用(事前に復号が必要)
+      	KHBBSはKHBBSはBBS1-3.DATの変換インポートが別途ソフト等で必要
+      	GOD EATERはlibfont patchが必要
+
+      prometheusを利用する場合
+      	prometheusパッチを利用(復号も同時に行います)
+      	KHBBSはKHBBSはBBS1-3.DATの変換インポートが別途ソフト等で必要
+      	GOD EATERはlibfontの差替が別途ソフト等で必要(libfont patchは不可)
+
+*1.32
+[NEW] prometheus.prxに対応(Special Thanks to hrimfaxi)
+      iso_tool本体と同じ場所にprometheus.prx/EBOOT.BINが必要です
+      元のEBOOT.BINの復号/EBOOT.OLDへのリネーム
+      prometheus.prx/EBOOT.BINのインポートをまとめて行います
+      ※KHBBSはBBS1-3.DATのインポートが別途必要です
+
+      prometheus復旧で元の状態に戻りますが、EBOOT.BINは復号後のままです
+
+*1.31
+[NEW] Kernel_LibrarZ/sceUtilitOへのパッチ機能を追加
+      再度実行することで元に戻ります
+
+*1.30
+[NEW] GOD EATER用パッチを追加
+      再度実行することにより、元のISOに戻ります
+      ※libfont.prxのサイズが大きくなるので、
+        BOOT.BINの領域を利用しています
+        起動確認はしましたが、不具合が出る可能性はあります
+
+*1.20
+[NEW] 英語メッセージを実装 (I cannot speak English. )
+[NEW] ○/×ボタンの入替えに対応
+両方ともPSPの設定に連動します
+
+*1.14
+[NEW] Kernel_LibrarOへのパッチ機能を追加
+      再度実行することで元に戻ります
+[UPDATE] pspdecrypt.prxの更新に対応
+[BUG] ISO吸出しがすぐに終了してしまうのを修正
+[BUG] CSO吸出しを中止した際にゴミファイルが残ってしまうのを修正
+
+*1.13
+[UPDATE] 同梱のpspdecrypt.prxを4/29の物に差替え(Special Thanks to hrimfaxi)
+[UPDATE] 変換処理を書き直し(UMD→ISO/UMD→CSOのみ)
+[UPDATE] 処理できる最大EBOOT.BINサイズを20MBに変更
+[BUG] 破損ファイルによりXMBからメモステが開けないのを回避
+[BUG] 別の場所にISOファイルが出来てしまうのを修正
+
+*1.12
+[UPDATE] リネーム時に先頭に「.」がある場合、「 」(空白)を先頭に追加する
+
+*1.11
+[UPDATE] リネーム時に利用出来ない文字があった場合、文字を置き換える処理を追加
+         "<>:"/\|?*"はそれぞれ"()_'_____"に置き換えられます
+
+*1.10
+[UPDATE] UMD_ID.TXTのフォーマットをcsvに変更、ファイル名をUMD_ID.csvに変更
+         http://isotool.tfact.net/UMD_ID.csvからもダウンできます
+
+[UPDATE] Filer6.6でCSOの中身が確認できるようにCSOヘッダーを調整
+         ※CSOファイルの5byte目はヘッダーサイズで0x18が指定されている必要があるが、
+           Filer6.6では0x18になっているとCSOと認識しないようなので、一時的に調整しました
+           ただし、オリジナルのdevhook SDK 0.46でも、ciso.hには0x18指定の記載があるが、
+           ciso.c内では0x18書込み部分が無いので、どちらとも言えないようです
+
+[UPDATE] 変換済みのCSO用にヘッダー調整をCSOメニューに追加
+
+*1.03
+[UPDATE] ISO/CSO変換の復帰時にYES/NOダイアログを残さないように変更
+[BUG] readme.txtにISO/CSO変換の中止について記載
+[BUG] 破損ファイルによりXMBからメモステが開けないのを防ぐために、変換後にリネームをする処理を追加
+[BUG] オンラインアップデート時のタイムアウトを30秒に設定
+
+*1.02
+[UPDATE] キーリピートの追加
+[BUG] 再起動/終了時にキャンセルするとエラーメッセージが表示されてしまうのを修正
+
+*1.00
+[UPDATE] readme.txtの追加
+
+*beta
+[UPDATE] エラーチェックの強化
+[UPDATE] OSKによるファイル名入力の追加
+[UPDATE] ファイル変換時のファイル名入力の追加
+[UPDATE] UMDが入っていないときのメッセージを追加
+[UPDATE] MSを抜いた時の対応を追加
+[UPDATE] MSの空き容量により警告を表示
+[UPDATE] ファイル名の確認を追加
+[UPDATE] 同名のファイルがあった場合は警告を表示
+[UPDATE] ファイルの削除機能を追加
+[BUG] MSが抜けていた場合、空き容量表示を0にするように修正
+[BUG] ISO/CSO変換中断時にクロックを元に戻し忘れていたのを修正
+[BUG] ネットワーク接続後に背景が消えてしまっていたのを修正
+[BUG] UMDが入っていないときの表示を修正
+
+*test 025
+[BUG] ファイルリストがスクロールしなくなっていたのを修正
+
+*test 024
+[UPDATE] システムメニュー追加(△ボタンで表示)
+[UPDATE] 再起動/終了をシステムメニューに追加
+[UPDATE] UMD_ID.TXTとEBOOT.PBP(ソフト本体)のオンラインアップデートを追加
+         ※サーバーのファイル時刻で判断しているので、変更が無くても更新ありと認識される場合があります
+[UPDATE] UMD_ID.TXTを更新
+[UPDATE] エラーチェックをほんの一部追加
+[UPDATE] ネットワークアップデートを追加したので、バージョン表記を追加
+[BUG] ISO/CSO変換中断時にクロックを元に戻し忘れていたのを修正
+
+*test 023
+[UPDATE] アイコンの追加 大浦洞さん提供です。ありがとうございました
+[UPDATE] UMD_ID.TXTの更新
+[BUG] EBOOT.BINの変換ができなくなっていたのを修正
+
+*test 022
+[UPDATE] EBOOT.BINのバックアップの読込み先を追加
+			以下の順で検索します
+			1)iso_toolのインストールフォルダのBACK_UP/(UMD_ID).EBT
+			2)iso_toolのインストールフォルダのBACK_UP/(ファイル名).EBT
+			3)リカバリするファイルと同じフォルダにある(UMD_ID).EBT
+			4)リカバリするファイルと同じフォルダにある(ファイル名).EBT
+
+*test 021
+[UPDATE] EBOOT.BINのバックアップをUMD_ID.EBTで保存するように変更
+[UPDATE] EBOOT.BINのリカバリ機能を追加
+[UPDATE] UMDからの変換時のファイル名をUMD IDに変更
+[UPDATE] CSO圧縮時の圧縮レベルと閾値の設定を追加
+[UPDATE] CSOファイル名に圧縮レベルと閾値をつけて保存
+[BUG] MSの空きが2048MiB以上の場合に表示が正しくされていなかったのを修正
+[BUG] UMD_ID.TXT : ブレイジングソウルズアクセレイトの英語表記を修正
+[BUG] ステータス表示の枠が再表示できていなかったのを修正
+[BUG] メニュー表示音の修正
+[BUG] テスト用の読込サイズ表示が残っていたのを削除
+[BUG] 変換時の速度表示が消えてしまっていたのを修正
+[ETC] update.txtを追加
+
+*test 020
+[UPDATE] MSの空き容量/UMD、ISO、CSOのファイルサイズの表示を追加
+[UPDATE] ステータス表示を1行追加
+[BUG] ステータス行に文字が残るバグを修正
+[BUG] UMD_ID.TXT修正
+
+*test 019
+[UPDATE] CSO->ISO変換を追加
+
+*test 018
+[BUG] ISO/CSO吸出し時にデータ化けがあったのを修正
+[BUG] EBOOT.BIN変換ミスを修正
+
+*test 017
+[UPDATE] UMD/ISO->ISO/CSO変換部分を新方式に変更
+[BUG] CSO変換時のバグを修正
+
+*test 016
+[UPDATE] UMD/ISO->ISO/CSO変換部分の調整
+[UPDATE] 変換中のキャンセルの追加
+
+*test 015
+[BUG] CSO変換のバグ修正
+
+*test 014
+[UPDATE] UMD->ISO吸出しの追加
+[UPDATE] CSO変換の高速化
+
+*test 013
+[BUG] CSO変換時のフリーズを修正
+[BUG] 圧縮レベルが0になっていたのを9に設定
+
+*test 012
+[UPDATE] ISO->CSOの変換を追加
+[UPDATE] UMDからのCSO直接変換を追加
+[UPDATE] UMDの情報取得を実装
+[BUG] UMD_ID.TXTを修正
+
+*test 011(非公開)
+[UPDATE] メニューのキャンセルを追加
+
+*test 010
+[UPDATE] CSOファイルのEBOOT.BINの復号化機能を追加
+
+*test 009
+[UPDATE] 英語名へのリネームを追加
+[BUG] UTF-16->SJIS変換時のバグを修正
+
+*test 008
+[UPDATE] CSOファイルの表示に対応
+[UPDATE] ダイアログの追加
+
+*test 007
+[UPDATE] 状況表示を追加
+[UPDATE] リネーム機能の追加
+[UPDATE] ファイル名の日本語表示に対応
+
+*test 006
+[BUG] インストール先によって名称表示ができなかったのを修正
+
+*test 005
+[UPDATE] ソフト名称表示機能を追加
+
+*test 004
+[UPDATE] ISOファイルのEBOOT.BINの復号化機能を追加
+
+*test 003
+[UPDATE] 動作音を追加
+
+*test 002
+[UPDATE] メニューの表示を追加
+
+*test 001
+[UPDATE] ISO一覧表示とディレクトリの移動を追加

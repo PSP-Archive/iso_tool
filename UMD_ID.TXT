@@ -1,0 +1,2315 @@
+﻿# UMD ID
+# 日本語名
+# 英語名(58文字以上だとXMBで認識しない)
+1234567890123456789012345678901234567890123456789012345678
+                                        ここまでで58文字↓
+----------------------------------------------------------
+ULJS-00001
+リッジレーサーズ
+Ridge Racers
+
+ULJM-05005
+ヴァンパイア クロニクル ザ カオス タワー
+Vampire Chronicle - The Chaos Tower
+
+ULJM-05008
+ニード・フォー・スピード アンダーグラウンド ライバルズ
+Need for Speed - Underground Rivals
+
+ULJM-05011
+パズルボブルポケット
+Puzzle Bobble Pocket
+
+ULJM-05001
+METAL GEAR AC!D
+Metal Gear Ac!d
+
+ULJM-05003
+真・三國無双
+Shin Sangoku Musou
+
+UCJS-10001
+みんなのGOLF ポータブル
+Minna no Golf Portable
+
+ULJS-00005
+ルミネス-音と光の電飾パズル-
+Lumines
+
+ULJS-00006
+蒼穹のファフナー
+Soukyuu no Fafner
+
+ULJS-00012
+ナムコミュージアム
+Namco Museum
+
+ULJS-00002
+ことばのパズル もじぴったん大辞典
+Kotoba no Puzzle - Mojipittan Daijiten
+
+UCJM-95401
+みんなのGOLFポータブル（コカ・コーラスペシャルエディション）
+Minna no Golf Portable - Coca-Cola SE
+
+ULJS-00015
+テイルズ オブ エターニア
+Tales of Eternia
+
+ULJM-05007
+ぷよぷよフィーバー
+Puyo Puyo Fever
+
+ULJM-05017
+首都高バトル
+Shutokou Battle
+
+ULJS-00010
+ころん KOLLON
+Kollon
+
+UCJS-10003
+ピポサルアカデミ～ア どっさり!サルゲ～大全集
+Piposaru Academia - Dossari! Sarugee Daizenshu
+
+UCJS-10008
+BLEACH ヒート・ザ・ソウル
+Bleach - Heat the Soul
+
+ULJM-05002
+麻雀格闘倶楽部
+MAH-JONG FIGHT CLUB
+
+UCJS-10007
+WIPEOUT PURE(ワイプアウトピュア)
+Wipeout Pure
+
+ULJM-05016
+三國志V
+San Goku Shi V
+
+ULJM-05015
+スペースインベーダー ポケット
+Space Invaders - Pocket
+
+ULJS-00003
+アーマード・コア フォーミュラフロント
+Armored Core - Formula Front
+
+ULJM-05013
+新天魔界 ～GOCIV アナザサイド～
+Generation of Chaos IV - Another Side
+
+ULJM-05006
+煉獄 THE TOWER OF PURGATORY
+Rengoku - The Tower of Purgatory
+
+ULJS-00016
+英雄伝説 ガガーブトリロジー 朱紅い雫
+Eiyuu Densetsu Gagharv Trilogy - Akai Shizuku
+
+ULJS-00014
+インテリジェント・ライセンス
+Intelligent License
+
+UCJS-10004
+サルゲッチュP!
+Saru Get Chu! P!
+
+ULJS-00011
+アドベンチャープレイヤー
+Adventure Player
+
+UCJS-10002
+どこでもいっしょ
+Doko Demo Issho
+
+ULJM-05020
+実戦パチスロ必勝法!北斗の拳 ポータブル
+Jissen Pachi-Slot Hisshouhou! Hokuto no Ken Portable
+
+ULJM-05014
+ドラスロット 主役は銭形
+Dora-Slot - Shuyaku wa Zenigata
+
+ULJS-00008
+AI囲碁
+AI Igo
+
+UCJS-10006
+ダービータイム
+Derby Time
+
+ULJS-00017
+爆脳 BAKU-NO
+Baku-No
+
+ULJM-05023
+ボンバーマン ぱにっくボンバー
+Bomberman - Panic Bomber
+
+ULJS-00018
+天誅 忍大全
+Tenchu - Shinobi Taizen
+
+ULJM-05021
+戦国キャノン -SENGOKU ACE EPISODE III-
+Sengoku Cannon - Sengoku Ace Episode III
+
+ULJM-05026
+スターソルジャー
+Star Soldier
+
+ULJS-00019
+スクールランブル 姉さん事件です!
+School Rumble - Anesan Jiken Desu!
+
+UCJS-10005
+ポポロクロイス物語～ピエトロ王子の冒険～
+PoPoLoCrois Monogatari - Pietro Ouji no Bouken
+
+ULJS-00020
+太鼓の達人 ぽ～たぶる
+Taiko no Tatsujin Portable
+
+ULJM-05030
+ロックマンDASH 鋼の冒険心
+Rockman Dash - Hagane no Boukenshin
+
+ULJS-00007
+AI麻雀
+AI Mahjong
+
+UCJS-10011
+【Hg】 ハイドリウム
+Hg Hydrium
+ULJS-00004
+英雄伝説 ガガーブトリロジー 白き魔女
+Eiyuu Densetsu Gagharv Trilogy - Shiroki Majo
+UCJS-10013
+やるドラ ポータブル 季節を抱きしめて
+Yarudora Portable - Kisetsu wo Dakishimete
+UCJS-10012
+やるドラ ポータブル ダブルキャスト
+Yarudora Portable - Double Cast
+ULJS-00022
+機動戦士ガンダム ギレンの野望 ジオンの系譜
+Gundam - Gihren no Yabou - Zeon no Keifu
+ULJM-05012
+Mobile Train Simulator + 電車でGO! 東京急行編
+Mobile Train Simulator + Densha de GO! Tokyo Kyuukou Hen
+ULJM-05018
+遙かなる時空の中で 彩絵手箱
+Harukanaru Toki no Nakade - Iroetebako
+ULJM-05028
+実話怪談 『新耳袋』 一ノ章
+Jitsuwa Kaidan - Shinmimi Bukuro - Ichi no Shou
+ULJS-00009
+AI将棋
+AI Shogi
+ULJM-05027
+ドラスロット 巨人の星II
+Dora-Slot - Bakuenchi! Kyoujin no Hoshi II
+ULJS-00013
+彼岸島
+Higanjima
+ULJM-05004
+麻雀大会
+Mahjong Taikai
+UCJS-10010
+天地の門
+Tenchi no Mon
+ULJM-05029
+ブレス オブ ファイア III
+Breath of Fire III
+ULJM-05031
+Twelve ～戦国封神伝～
+Twelve - Sengoku Fuushinden
+UCJS-10015
+やるドラ ポータブル 雪割りの花
+Yarudora Portable - Yukiwari no Hana
+UCJS-10014
+やるドラ ポータブル サンパギータ
+Yarudora Portable - Sampaguita
+ULJM-05010
+タイガー・ウッズ PGA TOUR(R)
+Tiger Woods PGA Tour
+ULJM-05019
+遙かなる時空の中で2
+Harukanaru Toki no Nakade 2
+UCJS-10017
+BLEACH ～ヒート・ザ・ソウル2～
+Bleach - Heat the Soul 2
+ULJM-05032
+信長の野望・天翔記
+Nobunaga no Yabou - Tenshoki
+ULJM-05037
+ロックマンDASH2 エピソード2 大いなる遺産
+Rockman Dash 2
+ULJM-05033
+ワールドサッカー ウイニングイレブン9 ユビキタスエボリューション
+Winning Eleven 9 - Ubiquitous Evolution
+ULJM-05040
+PRINCESS CROWN プリンセスクラウン
+Princess Crown
+UCJS-10019
+Formula One 2005 Portable
+Formula 1 - 05 Portable
+ULJS-00025
+ガンダムバトルタクティクス
+Gundam Battle Tactics
+ULJM-05045
+SPACE INVADERS Galaxy beat スペースインベーダー ギャラクシービート
+Space Invaders - Galaxy Beat
+ULJM-05042
+ギルティギア イグゼクス シャープリロード
+Guilty Gear XX #Reload
+ULJM-05039
+電車でGO! ポケット山手線編
+Densha de Go Pocket! - Yamate Sen Hen
+ULJS-00024
+ギャラリーフェイク
+Gallery Fake
+ULJM-05025
+ピンボール
+Pinball
+ULJM-05038
+三國志VI
+San Goku Shi VI
+ULJM-05046
+NBA ストリート SHOWDOWN
+NBA Street Showdown
+ULJM-05050
+脳力トレーナー ポータブル
+Nouryoku Trainer Portable
+ULJM-05041
+新紀幻想 ～SSII アンリミテッドサイド～
+Shinki Gensou - SSII Unlimited Side
+ULJS-00026
+機動警察パトレイバーかむばっくミニパト
+Kidou Keisatsu Patlabor - Kamubakku MiniPato
+ULJM-05054
+金色のコルダ
+Kiniro no Corda
+UCJS-10016
+福福の島
+Fukufuku no Shima
+ULJM-05066
+モンスターハンターポータブル
+Monster Hunter Portable
+UCJS-10009
+TALKMAN(マイク同梱版)
+TalkMan (Microphone Doukonban)
+ULJM-05049
+バーンアウト レジェンド
+Burnout Legends
+ULJS-00034
+牧場物語 ハーベストムーン ボーイ＆ガール
+Bokujou Monogatari - Harvest Moon Boy & Girl
+ULJS-19001
+アーマード・コア フォーミュラフロント インターナショナル
+Armored Core - Formula Front International
+ULJM-05071
+激・戦国無双
+Geki - Sengoku Mesou
+ULJM-05047
+METAL GEAR AC!D 2
+Metal Gear Ac!d 2
+ULJM-05043
+イレギュラーハンターX
+Rockman X - Irregular Hunter
+ULJM-05062
+EXIT -イグジット-
+Exit
+ULJM-05074
+ジェットでGO! ポケット
+Jet de Go Pocket
+UCJS-10020
+ピポサルアカデミ～ア2 -あいあいサルゲ～ジャンケンバトル!
+Piposaru Academia 2
+ULJM-05068
+大戦略ポータブル
+Daisenryaku Portable
+UCJS-10022
+バイトヘル2000
+Beit Hell 2000
+ULJS-00033
+僕の私の塊魂
+Boku no Watashi no Katamari Damacy
+ULJS-00027
+こみっくパーティポータブル 初回限定版
+Comic Party Portable - Shokai Genteiban
+ULJM-05036
+クラッシュ・バンディクー がっちゃんこワールド
+Crash Bandicoot - Gacchanko World
+ULJS-00029
+KARAKURI
+Karakuri
+ULMJ-05073
+ニード・フォー・スピード モスト・ウォンテッド5・1・0
+Need for Speed - Most Wanted 5-1-0
+ULJM-05063
+SSX On Tour ポータブル
+SSX - On Tour Portable
+ULJM-05072
+信長の野望・将星録
+Nobunaga no Yabou - Shouseiroku
+ULJM-05058
+ぷよぷよフィーバー2【チュー!】
+Puyo Puyo Fever 2
+ULJM-05075
+零式艦上戦闘記 征空王
+Zero Shiki Kanjou Sentouki
+ULJS-00041
+スーパーロボット大戦MX ポータブル
+Super Robot Taisen MX Portable
+ULJM-05053
+真・女神転生デビルサマナー
+Shin Megami Tensei - Devil Summoner
+ULJS-00032
+英雄伝説 ガガーブトリロジー 海の檻歌
+Eiyuu Densetsu Gagharv Trilogy - Umi no Kanka
+ULJM-05082
+ストリートファイターZERO3↑↑(ダブルアッパー)
+Street Fighter Zero 3 - Double Upper
+ULJM-05009
+イース -ナピシュテムの匣-
+Ys - Napishtim no Hako
+ULJM-05091
+グラディウス ポータブル
+Gradius Portable
+ULJM-05083
+三國志VII
+San Goku Shi VII
+ULJS-00036
+中原の覇者 -三国将星伝-
+Nakahara no Hasha - Sangoku Shouseiden
+ULJM-05084
+電車でGO! ポケット 中央線編
+Densha de Go! Pocket - Chuuousen Hen
+UCJS-10025
+やるドラ ポータブル BLOOD THE LAST VAMPIRE
+Yarudora Portable - Blood the Last Vampire
+ULJM-05098
+呪医 Dr.杜馬丈太郎
+Jui - Dr. Touma Jotarou
+ULJM-05093
+頭文字D STREET STAGE
+Initial D - Street Stage
+ULJM-05086
+幻想水滸伝 I&II
+Gensou Suikoden I & II
+ULJM-05100
+実録鬼嫁日記 ～仕打ちに耐える夫の理不尽体験アドベンチャー
+Jitsuroku Oniyome Nikki
+ULJS-00046
+キン肉マン マッスルジェネレーションズ
+Kinnikuman - Muscle Generations
+ULJS-00047
+ナムコミュージアム Vol.2
+Namco Museum Vol.2
+ULJS-00040
+舞-HiME 爆烈! 風華学園激闘史?!
+Mai-Hime Bakuretsu! Fuuka Gakuen Gekitoushi!
+UCJS-10026
+モンスターキングダム・ジュエルサモナー
+Monster Kingdom - Jewel Summoner
+ULJM-05101
+ヴァルキリープロファイル -レナス-
+Valkyrie Profile - Lenneth
+ULJS-00038
+SIMPLE2500 #2 THE テニス
+SIMPLE2500 #2 The Tennis
+ULJM-05085
+Mobile Train Simulator 京成・都営浅草・京急線
+Mobile Train Simulator Keisei - Toei Asakusa - Keikyuusen
+UCJS-10021
+ブレイドダンサー ～千年の約束～
+Blade Dancer - Sennen no Yakusoku
+UCJS-10027
+ダービータイム2006
+Derby Time 2006
+ULJM-05069
+ドラスロット 沖スロ王! パイオニア12
+Dora-Slot - Oki-Slot-Ou! Pioneer 12
+ULJM-05099
+大江戸千両箱
+Ooedo Senryoubako
+ULJS-00052
+大都技研公式パチスロシミュレーター 押忍!番長 PORTABLE
+Daito Giken Pachi-Slot Simulator - Ossu! Banchou Portable
+ULJM-05097
+パースートフォース～大追跡～
+Pursuit Force - Daitsuiseki
+ULJM-05079
+Power Smash New generation
+Power Smash - New Generation
+ULJS-00035
+流行り神 PORTABLE 警視庁怪異事件ファイル
+Hayarigami Portable - Keishichou Kaii Jiken File
+ULJS-00037
+SIMPLE2500 #1 THE テーブルゲーム
+SIMPLE2500 #1 The Table Game
+ULJM-05044
+ロックマンロックマン
+Rockman Rockman
+ULJM-05067
+くるくるカメレオン
+KuruKuru Chameleon
+ULJM-05108
+アイシールド21 Portable Edition
+Eyeshield 21 - Portable Edition
+ULJM-05061
+FIFA 06
+FIFA 06
+ULJM-05088
+フランティックス きらきら謎解き大冒険
+Frantix - Kirakira Nazotoki Daibouken
+ULJM-05092
+ギャンブル コンファイト
+Gamble Con Fight
+ULJM-05064
+NBA LIVE 06
+NBA Live 06
+ULJM-05070
+最強 東大将棋 ポータブル
+Saikyou Toudai Shogi Portable
+ULJM-05059
+タイガー・ウッズ PGA TOUR 06
+Tiger Woods PGA Tour 06
+ULJM-05078
+ときめきメモリアル ～forever with you～
+Tokimeki Memorial - Forever With You
+ULJM-05109
+サクラ大戦1&2
+Sakura Taisen 1 & 2
+ULJM-05114
+WRC - FIA World Rally Championship
+WRC - FIA World Rally Championship
+UCJS-10028
+レミングス
+Lemmings
+UCJS-10031
+XI コロシアム
+XI Coliseum
+ULJM-05024
+CODED ARMS
+Coded Arms
+ULJS-00039
+SIMPLE2500 #4 THE 右脳ドリル
+SIMPLE2500 #4 The Unou Drill
+UCJS-10030
+ボンバーマン 爆風戦隊ボンバーメ～ン
+Bomberman - Bakufuu Sentai Bombermen
+ULJS-00050
+ビズ体験シリーズ 起業道
+Biz Taiken Series - Kigyodo
+UCJS-10029
+I.Q. Mania
+I.Q. Mania
+ULJM-05080
+ビューティフルジョー バトルカーニバル
+Viewtiful Joe - Battle Carnival
+ULJM-05022
+信長の野望・烈風伝 with パワーアップキット
+Nobunaga no Yabou - Reppuuden with Power Up Kit
+ULJM-05096
+大航海時代IV ～ROTA NOVA～
+Daikoukai Jidai IV - Rota Nova
+ULJM-05113
+真・三國無双2nd Evolution
+Shin Sangoku Musou - 2nd Evolution
+ULJM-05087
+UNTOLD LEGENDS ～ウナタカの勇剣～
+Untold Legends - Brotherhood of the Blade
+ULJS-00055
+NARUTO-ナルト- ナルティメットポータブル 無幻城の巻
+Naruto - Narutimete Portable - Mugenjou no Maki
+ULJM-05120
+電車でGO! ポケット大阪環状線編
+Densha de Go! Pocket - Osaka Kanjousen Hen
+ULJM-05077
+実況パワフルプロ野球ポータブル
+Jikkyou Powerful Pro Yakyuu Portable
+ULJS-00056
+交響詩篇エウレカセブン
+Koukyou Shihen - Eureka Seven
+ULJM-05060
+スター・ウォーズ バトルフロントII
+Star Wars - Battlefront II
+ULJS-00058
+SIMPLE2500 #6 THE 戦車
+SIMPLE2500 #6 The Sensha
+ULJM-05116
+ウルトラパズルボブル ポケット
+Ultra Puzzle Bobble Pocket
+ULJM-05057
+上海
+Shanghai
+ULJM-05112
+実戦パチスロ必勝法! アラジン2エボリューション ポータブル
+Jissen Pachi-Slot Hisshouhou! Aladdin 2 Evolution Portable
+ULJM-05107
+メガミの笑壺
+Megami no Etsubo
+ULJM-05089
+グリップシフト
+Gripshift
+ULJM-05065
+ザ・シムズ2 Dr.ドミニクの陰謀
+The Sims 2
+ULJM-05115
+本格四人打プロ麻雀 麻雀王 PORTABLE
+Honkaku Yonin Uti Mahjong - Mahjong-Ou Portable
+ULJS-00049
+ドラゴンボールZ 真武道会
+Dragon Ball Z - Shin Budokai
+ULJS-00057
+SIMPLE2500 #5 THE ブロックくずしクエスト ～Dragon Kingdam～
+SIMPLE2500 #5 The Block Kuzushi Quest
+ULJS-00051
+みんなの地図
+Minna no Chizu
+ULJS-00063
+イノセントライフ ～新牧場物語
+Innocent Life - Shin Bokujou Monogatari
+ULJS-00061
+新世紀エヴァンゲリオン2 造られしセカイ -another cases-[10周年記念メモリアルBOX]
+Shinseiki Evangelion 2 Tsukurareshi Sekai Limited Edition
+ULJS-00062
+舞-HiME 鮮烈! 真 風華学園激闘史!!
+Mai-Hime Senretsu! Shin Fuuka Gakuen Gekitoushi!!
+ULJM-05055
+煉獄弐 the stairway to H.E.A.V.E.N.
+Rengoku II - The Stairway to H.E.A.V.E.N.
+ULJM-05122
+THE DOG HAPPY LIFE
+The Dog - Happy Life
+ULJM-05127
+ドラゴンクエスト&ファイナルファンタジー in いただきストリート ポータブル
+Dragon Quest & Final Fantasy in Itadaki Street Portable
+ULJS-00042
+マグナカルタ ポータブル
+Magna Carta Portable
+ULJM-05124
+イーディス メモリーズ ～新天魔界 GOCV～
+Aedeus Memories Shinten Makai - GOC V
+UCJS-10034
+TALKMAN EURO ～トークマン ヨーロッパ言語版～(ソフト単体版)
+Talkman Euro (Soft only)
+ULJM-05110
+かまいたちの夜2 特別篇
+Kamaitachi no Yoru 2 - Tokubetsuhen
+ULJM-05126
+脳力トレーナー ポータブル 2
+Nouryoku Trainer Portable 2
+ULJM-05129
+007 ロシアより愛をこめて
+007 - Russia Yori Ai wo Komete
+UCJS-10039
+-どこでもいっしょ- レッツ学校!
+Doko Demo Issho - Let's Gakkou!
+ULJM-05076
+タイトーメモリーズ ポケット
+Taito Memories Pocket
+ULJM-05135
+ソニーコンピュータサイエンス研究所 茂木健一郎博士監修 脳に快感 アハ体験!
+Mogi Hakase Kanshuu - Nou ni Kaikan - Aha Taiken
+ULJM-05133
+2006 FIFA ワールドカップドイツ大会
+FIFA World Cup - Germany 2006
+ULJM-05130
+ギタルマン ライブ!
+Gitaroo-Man Lives!
+ULJM-05111
+街 ～運命の交差点～ 特別篇
+Machi - Unmei no Kosaten Tokubetsu Hen
+ULJS-00060
+大都技研公式パチスロシミュレーター 吉宗 PORTABLE
+Daito Giken Pachi-Slot Simulator - Yoshimune Portable
+UCJS-10036
+カズオ
+Kazuo
+ULJM-05081
+コロコロ ころん
+Koro Koro!! Kollon
+ULJM-05094
+MYST(ミスト)
+Myst
+ULJM-05128
+ぼくは航空管制官 エアポートヒーロー成田
+Boku wa Koukuu Kanseikan - Airport Hero Narita
+ULJM-05137
+リサと一緒に大陸横断 ～A列車で行こう～
+Lisa to Isshoni Tairiku Oudan - A Ressha de Ikou
+UCJS-10038
+ぼくのなつやすみ ポータブル
+Boku no Natsuyasumi Portable
+ULJM-05123
+ぐるみん
+Gurumin
+ULJS-00048
+鉄拳 ダーク・リザレクション
+Tekken - Dark Resurrection
+UCJS-10024
+ブレイブ ストーリー 新たなる旅人
+Brave Story - Aratanaru Tabibito
+ULJM-05149
+カーズ
+Cars
+UCJS-10041
+LocoRoco(ロコロコ)
+Loco Roco
+ULJM-05139
+ジュクゴン
+Jukugon
+ULJM-05106
+天外魔境 第四の黙示録
+Tengai Makyou - Daiyon no Mokushiroku
+ULJS-00074
+クイズ機動戦士ガンダム 問戦士DX
+Quiz Kidou Senshi Gundam - Monsenshi DX
+ULJM-05144
+ファインダーラブ 工藤里紗 ファーストショットは君と。(通常版)
+Finder Love - Kudo Risa - First Shoot wa Kimi to
+ULJM-05142
+NANA すべては大魔王のお導き!?
+Nana - Subete wa Daimaou no Omichibiki
+UCJS-10042
+BLEACH～ヒート・ザ・ソウル3～
+Bleach - Heat the Soul 3
+ULJS-00070
+キングスフィールド アディショナル I
+King's Field - Additional I
+ULJM-05034
+ボンバーマンポータブル
+Bomberman - Portable
+ULJS-00069
+ウルトラマン Fighting Evolution 0
+Ultraman - Fighting Evolution 0
+ULJS-00031
+ポータブル・アイランド 手のひらのリゾート
+Portable Island - Tenohira Resort
+ULJM-05145
+ファインダーラブ ほしのあき 南国トラブル ランデブー(通常版)
+Finder Love - Hoshino Aki - Nangoku Trouble Rendezvous
+ULJS-00045
+ダービースタリオンP
+Derby Stallion P
+ULJM-05152
+電車でGO! ポケット 東海道線編
+Densha de Go! Pocket Tokaido-sen Hen
+ULJM-05147
+極魔界村
+Goku Makaimura
+ULJS-00054
+EVERY EXTEND EXTRA エブリ エクステンド エクストラ
+Every Extend Extra
+ULJS-00065
+SDガンダム GGENERATION PORTABLE
+SD Gundam G Generation Portable
+ULJM-05138
+Carnage Heart PORTABLE(カルネージハート ポータブル)
+Carnage Heart Portable
+ULJS-00053
+SIMPLE2500 #3 THE どこでも推理 ～IT探偵:全68の事件簿～
+SIMPLE2500 #3 The Doko Demo Suiri
+ULJM-05143
+ファインダーラブ 原史奈 ふたりの ふたりで・・・。(通常版)
+Finder Love - Hara Fumina - Futari no Futari de
+ULJM-05052
+くりぃむしちゅーも観ながらいろいろゴチャゴチャ言ってますけども・・・笑いのタマゴLサイズ(おひとり様何回でも)
+Warai no Tamago L Size
+UCJS-10018
+攻殻機動隊 STAND ALONE COMPLEX -狩人の領域-
+Koukaku Kidoutai - Stand Alone Complex Kariudo no Ryouiki
+ULJM-05140
+ナンプレ&お絵かきパズル
+Numpla & Oekaki Puzzle
+ULJM-05153
+実戦パチスロ必勝法! 北斗の拳SE ポータブル
+Jissen Pachi-Slot Hisshouhou! Hokuto no Ken SE Portable
+ULJM-05141
+FIFAストリート2
+FIFA Street 2
+ULJS-00067
+山佐Digiポータブル 祭の達人 ウィンちゃんの夏祭り
+Yamasa Digi Portable - Matsuri no Tatsujin
+ULJS-00072
+RAIN WONDER TRIP(レイン ワンダー トリップ)【限定版】
+Rain Wonder Trip - Limited Edition
+UCJS-10033
+TALKMAN EURO ～トークマン ヨーロッパ言語版～(マイクロホン同梱版)
+TalkMan Euro (with Microphone)
+ULJM-05095
+ウイニングポスト6 2006
+Winning Post 6 2006
+ULJM-05158
+ギルティギア ジャッジメント
+Guilty Gear Judgment
+UCJS-10043
+タマラン
+Tama-Run
+ULJS-00077
+SIMPLE2500 #7 THE どこでも漢字クイズ ～チャレンジ!漢字検定2006～
+SIMPLE2500 #7 The Doko Demo Kanji Quiz 2006
+ULJS-00078
+MotoGP
+Moto GP
+ULJS-00076
+キングスフィールド アディショナルII
+King's Field - Additional II
+ULJS-00071
+パイレーツ・オブ・カリビアン デッドマンズ・チェスト
+Pirates of the Caribbean - Dead Man's Chest
+ULJM-05157
+七田式トレーニング 右脳鍛錬ウノタン ポータブル
+Shichida Shiki Training - Unou Tanren Portable
+UCJS-10035
+TALKMAN (ソフト単体版)
+TalkMan
+ULJS-00075
+ヴァルハラナイツ
+Valhalla Knights
+ULJM-05165
+マイアミ・バイス ザ・ゲーム
+Miami Vice - The Game
+ULJM-05159
+太閤立志伝IV
+Taikou Risshiden IV
+ULJM-05121
+バブルボブル マジカルタワー大作戦!!
+Bubble Bobble - Magical Tower Daisakusen
+ULJM-05104
+カプコン クラシックス コレクション
+Capcom Classics Collection
+ULJS-00079
+テイルズ オブ ファンタジア -フルボイスエディション
+Tales of Phantasia - Full Voice Edition
+ULJS-00081
+太鼓の達人 ぽ～たぶる2
+Taiko no Tatsujin Portable 2
+UCJS-10044
+BLOOD+ファイナルピース
+Blood+ Final Peace
+ULJM-05161
+カンガエル EXIT
+Kangaeru EXIT
+ULJS-00059
+パイロットになろう!フライングオールスターズ
+Pilot Ni Narou! Flying All Stars
+ULJS-00073
+RAIN WONDER TRIP
+Rain Wonder Trip
+ULJS-00080
+リッジレーサーズ2
+Ridge Racers 2
+ULJM-05151
+遊戯王デュエルモンスターズGX タッグフォース
+Yu-Gi-Oh! Duel Monsters GX Tag Force
+ULJM-05174
+もえがく＠ポータブル
+Moegaku Portable
+ULJS-00064
+新世紀エヴァンゲリオン2 造られしセカイ -another cases-[通常版]
+Shinseiki Evangelion 2 Tsukurareshi Sekai Normal Edition
+ULJS-00021
+バウンティハウンズ
+Bounty Hounds
+ULJS-00068
+ブロックス倶楽部ポータブルwithバンピートロット
+Blokus Club Portable with Bumpy Trot
+ULJM-05150
+METAL GEAR SOLID BANDE DESSINEE
+Metal Gear Solid - Bande Dessinee
+ULJM-05172
+クロニクル オブ ダンジョンメーカー
+Chronicle of Dungeon Maker
+ULJM-05170
+英雄伝説 空の軌跡FC
+Eiyuu Densetsu - Sora no Kiseki FC
+ULJM-05176
+アストニシア ストーリー
+Astonishia Story
+ULJS-00082
+フィッシュアイズ ポータブル
+Fish Eyes Portable
+ULJM-05175
+ふしぎ遊戯 玄武開伝 外伝 鏡の巫女
+Fushigi Yuugi - Genbu Kaiden Gaiden - Kagami no Miko
+ULJM-05125
+ボクサーズロード2 ザ・リアル
+Boxer's Road 2 - The Real
+ULJS-00083
+ガンダムバトルロワイヤル
+Gundam Battle Royale
+ULJM-05171
+ぼくは航空管制官 エアポートヒーロー那覇
+Boku wa Koukuu Kanseikan - Airport Hero Naha
+ULJM-05136
+雀・三國無双
+Jan Sangoku Musou
+ULJM-05169
+プリンセスメーカー4 ポータブル
+Princess Maker 4 Portable
+ULJM-05103
+エキサイティングプロレス7 SMACKDOWN!vs.RAW 2006
+Exciting Pro Wrestling 7 - SmackDown! vs. RAW 2006
+ULJM-05184
+プラネタリウムクリエイター 大平貴之監修 ホームスター ポータブル
+Homestar Portable
+UCJS-10047
+天地の門2 ～武双伝～
+Tenchi no Mon 2 - Busouden
+ULJM-05179
+アントールドレジェンド ウォーリアーズ・コード
+Untold Legends - The Warrior's Code
+ULJM-05035
+忍道 焔
+Shinobido Homura
+ULJM-05162
+スペクトラル VS ジェネレーション
+Spectral vs Generation
+ULJM-05102
+SPIDER-MAN 2
+Spider-Man 2
+ULJS-00086
+エースコンバットX スカイズ・オブ・デセプション
+Ace Combat X - Skies of Deception
+UCJS-10005
+ポポロクロイス物語 ～ピエトロ王子の冒険～ “PSP”the Best
+PoPoLoCrois Monogatari - Pietro Ouji no Bouken (v2)
+UCJB-98012
+ちょっとショット
+Chotto Shot
+ULJM-05186
+ヘブンズウィル
+Heaven's Will
+ULJM-05187
+ヴルカヌス
+Vulcanus - Seek & Destroy
+ULJM-05146
+数独 SUDOKU
+Sudoku
+ULJS-00084
+SIMPLE2500 #8 THEどこでもギャル麻雀
+SIMPLE2500 #8 The Dokodemo Girl Mahjong
+UCJS-10048
+ジャンヌ・ダルク
+Jeanne d'Arc
+ULJM-05188
+Riviera ～約束の地リヴィエラ～
+Riviera - Yakusoku no Chi
+ULJS-00066
+ぷらすぷらむ2 again
+Plus Plum 2 Again Portable
+ULJS-00089
+魔界戦記ディスガイア PORTABLE 通常版
+Makai Senki DisGaea Portable
+ULJM-05167
+己のダンジョン
+Onore no Dungeon - Desire and Adventurous Spirit
+ULJM-05185
+悪代官漫遊記
+Akudaikan Manyuuki
+ULJM-05189
+ソニーコンピュータサイエンス研究所 茂木健一郎博士監修 脳に快感 みんなでアハ体験!
+Mogi Hakase Kanshuu - Nou ni Kaikan - Minna de Aha Taiken!
+ULJM-05178
+パワーストーン ポータブル
+Power Stone Portable
+UCJS-10032
+サルゲッチュ ピポサルレーサー
+Saru Get You - Piposaru Racer
+UCJS-10046
+パラッパラッパー
+PaRappa The Rapper
+ULJM-05163
+麻雀格闘倶楽部 全国対戦版
+MAH-JONG FIGHT CLUB - Zenkoku Taisenban
+ULJM-05132
+ワールドサッカーウイニングイレブン 10 ユビキタスエヴォリューション
+World Soccer Winning Eleven 10 - Ubiquitous Edition
+ULJM-05201
+京都大学 阿辻哲次教授監修 財団法人日本漢字能力検定協会協力 漢字トレーナーポータブル
+Atsuji Tetsuji Kyouju Kanshuu - Kanji Trainer Portable
+ULJM-05205
+大戦略 ポータブル2
+Daisenryaku Portable 2
+ULJM-05180
+トゥームレイダー: レジェンド
+Tomb Raider - Legend
+ULJS-00088
+魔界戦記ディスガイア PORTABLE 初回限定版
+Makai Senki DisGaea Portable (Shokai Genteiban)
+ULJS-00091
+MAPLUS ポータブルナビ(GPSレシーバー同梱版)
+Maplus - Portable Navi - GPS Receiver Doukonban
+ULJS-00028
+こみっくパーティーポータブル 【通常版】
+Comic Party Portable
+ULJM-05135
+ソニーコンピュータサイエンス研究所 茂木健一郎博士監修 脳に快感 アハ体験!（v2）
+Mogi Hakase Kanshuu - Nou ni Kaikan - Aha Taiken (v2)
+ULJS-00093
+テイルズ オブ ザ ワールド レディアント マイソロジー
+Tales of The World - Radiant Mythology
+ULJM-05193
+METAL GEAR SOLID PORTABLE OPS
+Metal Gear Solid - Portable Ops
+ULJM-05204
+ニード・フォー・スピード カーボン オウン・ザ・シティ
+Need for Speed Carbon - Own the City
+UCJS-10045
+Formula One 2006 Portable
+Formula 1 - 06 Portable
+UCJS-10040
+P-kara(ピーカラ)
+P-Kara
+ULJM-05160
+TOCA RACE DRIVER 2 ULTIMATE RACING SIMULATOR
+ToCA Race Driver 2 - The Ultimate Racing Simulator
+ULJS-00092
+MAPLUS ポータブルナビ(ソフト単品)
+Maplus - Portable Navi (Soft only)
+UCJB-98010
+-どこでもいっしょ- レッツ学校!（お勉強パック）
+Doko Demo Issho - Let's Gakkou! (Obenkyou Pack)
+ULJS-00085
+グンペイ リバース
+Gunpey-R
+ULJM-05218
+ウィザードリィ エンパイアIII ～覇王の系譜～
+Wizardry Empire III - Haou no Keifu
+ULJM-05202
+M.A.C.H. Modified Air Combat Heroes(マッハ モディファイド エアーコンバット ヒーローズ)
+M.A.C.H. - Modified Air Combat Heroes
+ULJM-05191
+FIFA 07
+FIFA 07
+UCJS-10051
+TALKMAN式 しゃべリンガル英会話(ソフト単体版)
+TalkMan Shiki - Shabilingual Eikaiwa
+UCJS-10050
+TALKMAN式 しゃべリンガル英会話(マイクロホン同梱版)
+TalkMan Shiki - Shabilingual Eikaiwa (with Microphone)
+ULJM-05217
+LOST REGNUM(ロストレグナム)～魔窟の皇帝～
+Lost Regnum - Makutsu no Koutei
+ULJM-05220
+パロディウス PORTABLE
+Parodius Portable
+ULJM-05219
+沙羅曼蛇 PORTABLE
+Salamander Portable
+ULJM-05221
+ツインビー PORTABLE
+TwinBee Portable
+ULJM-05173
+麻雀覇王ポータブル 雀荘バトル
+Mahjong Haoh Portable - Jansou Battle
+ULJS-00087
+インテリジェント ライセンス 2
+Intelligent License 2
+ULJM-05190
+NBAライブ 07
+NBA Live 07
+ULJS-00095
+Routes PORTABLE
+Routes Portable
+ULJM-05168
+視て聴いて脳で感じて クロスワード天国
+Mite Kiite Nou de Kanjite Crossword Tengoku
+ULJM-05155
+イース -ナピシュテムの匣- 特別版
+Ys - Napishtim no Hako (Special Edition)
+ULJM-05212
+ザ・シムズ2 ペット ワンニャンライフ
+The Sims 2 - Pet Wan Nyan Life
+ULJS-00094
+Routes PORTABLE（機能限定版）
+Routes Portable (Kinou Genteiban)
+ULJM-05213
+メダル オブ オナー ヒーローズ
+Medal of Honor - Heroes
+ULJS-00099
+NEWレインボーアイランド ハーディガーディ大冒険!!
+New Rainbow Island - Hurdy Gurdy Daibouken!!
+ULJM-05232
+ルミネスII
+Lumines II
+ULJS-00097
+テイルズ オブ デスティニー2
+Tales of Destiny 2
+ULJM-05203
+Kanon
+Kanon
+ULJM-05156
+モンスターハンターポータブル 2nd
+Monster Hunter Portable 2nd
+ULJM-05192
+タイガー・ウッズ PGA TOUR(R)07
+Tiger Woods PGA Tour 07
+ULJM-05231
+ぼくは航空管制官 エアポートヒーロー新千歳
+Boku wa Koukuu Kanseikan - Airport Hero Shinsensai
+ULJM-05229
+悪代官漫遊記 正義の刃
+Akudaikan Manyuuki - Seigi no Yaiba
+ULJS-00090
+メタルスラッグ コンプリート
+Metal Slug Complete
+ULJS-00096
+SIMPLE2500 #9 THE マイ・タクシー!
+SIMPLE2500 #9 The My Taxi
+ULJM-05233
+WWE 2007 SmackDown(R) vs. Raw(R)
+WWE SmackDown! vs. RAW 2007
+ULJM-05240
+三國志VIII
+San Goku Shi VIII
+ULJM-05177
+ぷよぷよ! 15th Anniversary
+Puyo Puyo! - Puyo Puyo 15th Anniversary
+ULJM-05181
+ボンバーマンランド ポータブル
+Bomberman Land Portable
+ULJM-05195
+実況パワフルプロ野球ポータブル2
+Jikkyou Powerful Pro Yakyuu Portable 2
+ULJM-05238
+機動戦士ガンダムSEED 連合 vs.Z.A.F.T. PORTABLE
+Kidou Senshi Gundam Seed - Rengou vs. Z.A.F.T. Portable
+ULJM-05027
+ドラスロット 巨人の星II（v2）
+Dora-Slot - Bakuenchi! Kyoujin no Hoshi II (v2)
+ULJM-05207
+とびだせ！トラぶる花札道中記
+Tobidase! Trouble Hanafuda Douchuuki
+ULJM-05241
+ファイナルファンタジー
+Final Fantasy
+ULJM-05239
+一生遊べる 東大将棋詰将棋道場
+Isshou Asoberu Todai Shogi - Tsumeshogi Dojo
+ULJS-00103
+みんなの地図2 (GPSレシーバー同梱版)
+Minna no Chizu 2 (with GPS)
+ULJS-00104
+みんなの地図2 (ソフト単体版)
+Minna no Chizu 2 (Soft only)
+ULJM-05194
+ファイナルファンタジータクティクス 獅子戦争
+Final Fantasy Tactics - Shishi Sensou
+ULJM-05249
+Little Aid ポータブル
+Little Aid Portable
+UCJB-98011
+LocoRoco(得得パック)
+Loco Roco (Toku Toku Pack)
+UCJS-10057
+BLEACH ～ヒート・ザ・ソウル4～
+Bleach - Heat the Soul 4
+ULJM-05154
+Juiced eliminator
+Juiced Eliminator
+ULJM-05227
+METAL GEAR SOLID PORTABLE OPS(プレミアムパック)
+Metal Gear Solid - Portable Ops (Premium Pack)
+UCJS-10058
+みんなのGOLF場 Vol.1 (ソフト単体版) Disc_1
+Minna no Golf Jou Vol.1 (Soft only) Disc_1
+UCJS-10059
+みんなのGOLF場 Vol.1 (ソフト単体版) Disc_2
+Minna no Golf Jou Vol.1 (Soft only) Disc_2
+ULJM-05245
+ファイナルファンタジーII
+Final Fantasy II - Anniversary Editon
+UCJS-10055
+みんなのGOLF場 Vol.1 (GPSレシーバー同梱版) Disc_1
+Minna no Golf Jou Vol.1 (with GPS) Disc_1
+UCJS-10056
+みんなのGOLF場 Vol.1 (GPSレシーバー同梱版) Disc_2
+Minna no Golf Jou Vol.1 (with GPS) Disc_2
+ULJS-00107
+ドラゴンボールZ 真武道会2
+Dragonball Z - Shin Budokai 2
+ULJM-05223
+Colin McRae Rally
+Colin McRae Rally
+ULJS-00098
+スマッシュコートテニス3
+Smash Court Tennis 3
+ULJM-05250
+目で右脳を鍛える 速読術ポータブル
+Me de Unou wo Kitaeru - Sokudoku Jutsu Portable
+ULJM-05251
+シークレット オブ エヴァンゲリオン ポータブル(通常版)
+Secret of Evangelion Portable
+ULJM-05244
+ちゅ～かな雀士 てんほー牌娘 Remix
+Chuukana Janshi Tenhoo Painyan Remix
+UCJS-10053
+TALKMAN式しゃべリンガル英会話 for Kids!(マイクロホン同梱版)
+TalkMan Shiki Shabilingual Eikaiwa for Kids! (with Mic.)
+UCJS-10052
+ラチェット&クランク5 激突!ドデカ銀河のミリミリ軍団
+Ratchet & Clank 5
+UCJS-10054
+TALKMAN式しゃべリンガル英会話 for Kids!(ソフト単体版)
+TalkMan Shiki Shabilingual Eikaiwa for Kids! (Soft only)
+ULJS-00105
+マワスケス based on “Carton-kun”
+Mawaskes - Based on Carton-kun
+ULJS-00108
+SIMPLE2500 #10 THE IQ CUBE ～モヤっと頭をパズルでスッキリ!～
+SIMPLE2500 #10 The IQ Cube
+ULJS-00005
+ルミネス-音と光の電飾パズル-(3.51)
+Lumines (3.51)
+ULJM-05255
+Grand Theft Auto Liberty City Stories
+Grand Theft Auto - Liberty City Stories
+UCJS-10060
+サルゲッチュ サルサル大作戦
+Sarugechu SaruSaru Daisakusen
+ULJM-05258
+フォー シンフォニー ～with all one's heart～ ポータブル
+For Symphony - With All One's Heart Portable
+ULJM-05265
+極魔界村 改
+Goku Makaimura Kai
+ULJM-05253
+アイドル雀士 スーチーパイIII Remix
+Idol Janshi Suchi-Pai III Remix
+UCJS-10064
+みんなのGOLF場 Vol.2 Disc_1
+Minna no Golf Jou Vol.2 Disc_1
+UCJS-10065
+みんなのGOLF場 Vol.2 Disc_2
+Minna no Golf Jou Vol.2 Disc_2
+UCJS-10049
+WILDARMS XF(ワイルドアームズクロスファイア)
+Wild Arms - Crossfire
+ULJM-95004
+テイルズ オブ ザ ワールド レディアント マイソロジー・スペシャルパック
+Tales of the World - Radiant Mythology (PSP bundle)
+ULJS-00112
+ドラグナーズアリア 竜が眠るまで
+Dragoneer's Aria - Ryu ga Nemuru Made
+UCJS-10023
+リゼルクロス
+Rezel Cross
+ULJM-05266
+フェイト／タイガーころしあむ(通常版)
+Fate Tiger - Colosseum
+ULJM-05275
+クライシス コア -ファイナルファンタジー VII-
+Crisis Core - Final Fantasy VII
+ULJM-05261
+METAL GEAR SOLID PORTABLE OPS +
+Metal Gear Solid - Portable Ops Plus
+ULJS-00111
+R-TYPE TACTICS
+R-Type Tactics
+ULJM-05242
+バーンアウト ドミネーター
+Burnout Dominator
+ULJS-00116
+みんなの地図2 地域版 東日本編
+Minna no Chizu 2 Chiikiban - Higashi Nihon hen
+ULJS-00118
+みんなの地図2 地域版 西日本編
+Minna no Chizu 2 Chiikiban - Nishi Nihon hen
+ULJM-05243
+CODED ARMS CONTAGION
+Coded Arms - Contagion
+ULJS-00114
+SIMPLE2500 #11 THE パズルクエスト ～アガリアの騎士～
+SIMPLE2500 #11 The Puzzle Quest - Agaria no Kishi
+ULJM-05260
+遊戯王デュエルモンスターズGX タッグフォース2
+Yu-Gi-Oh! Duel Monsters GX Tag Force 2
+ULJM-05277
+英雄伝説 空の軌跡SC Disc_1
+Eiyuu Densetsu - Sora no Kiseki SC Disc_1
+ULJM-05278
+英雄伝説 空の軌跡SC Disc_2
+Eiyuu Densetsu - Sora no Kiseki SC Disc_2
+ULJM-05264
+湾岸ミッドナイト ポータブル
+Wangan Midnight Portable
+ULJM-95002
+THE DOG HAPPY LIFE(マクドナルド バージョン)
+The Dog - Happy Life(McDonalds Version)
+ULJS-00122
+ガンダムバトルクロニクル
+Gundam Battle Chronicle
+ULJM-05284
+METAL GEAR SOLID PORTABLE OPS + DX PACK
+Metal Gear Solid - Portable Ops (Deluxe Pack)
+ULJS-00117
+みんなの地図2 地域版 中日本編
+Minna no Chizu 2 Chiikiban - Naka Nihon hen
+ULJM-05252
+e’tude prologue～揺れ動く心のかたち～
+E'tude Prologue - Yureugoku Kokoro no Katachi Portable
+ULJM-05214
+SNOW -Portable-
+Snow Portable
+ULJM-05283
+Riviera ～約束の地リヴィエラ～ SPECIAL EDITION
+Riviera - Yakusoku no Chi (Special Edition)
+UCJS-10067
+みんなのGOLF場 Vol.3 Disc_1
+Minna no Golf Jou Vol.3 Disc_1
+UCJS-10068
+みんなのGOLF場 Vol.3 Disc_2
+Minna no Golf Jou Vol.3 Disc_2
+ULJM-05287
+悪魔城ドラキュラ Xクロニクル
+Castlevania - The Dracula X Chronicles
+ULJM-05254
+クライシス コア -ファイナルファンタジー VII- FFVII 10th Anniversary Limited
+Crisis Core - Final Fantasy VII (Limited Edition)
+ULJM-05289
+NBA ライブ 08
+NBA Live 08
+ULJM-05164
+ダンジョンエクスプローラー 盟約の扉
+Dungeon Explorer - Meiyaku no Tobira
+ULJM-05276
+怪盗アプリコット ポータブル
+Kaitou Apricot Portable
+ULJM-05279
+アナタヲユルサナイ
+Anata wo Yurusanai
+ULJS-00115
+プロアトラス トラベルガイド
+Pro Atlas Travel Guide
+ULJM-05228
+EA BEST HITS バーンアウト レジェンド
+Burnout Legends (EA Best Hits)
+ULJM-05282
+AIR
+AIR
+UCJS-10071
+みんなのGOLF場 Vol.4 Disc_1
+Minna no Golf Jou Vol.4 Disc_1
+UCJS-10072
+みんなのGOLF場 Vol.4 Disc_2
+Minna no Golf Jou Vol.4 Disc_2
+ULJM-05263
+将棋が強くなる 激指 定跡道場
+Shogi ga Tsuyokunaru - Gekishi - Jouseki Dojo
+ULJS-00113
+魔界戦記ディスガイア PORTABLE 通信対戦はじめました。
+Makai Senki Disgaea Portable (Tsuushin Taisen)
+ULJM-05294
+クロニクル オブ ダンジョンメーカーII
+Chronicle of Dungeon Maker II
+UCJS-10076
+勇者のくせになまいきだ。
+Yuusha no Kuse ni Namaikida
+UCJS-10075
+みんなのGOLF ポータブル2
+Minna no Golf Portable 2
+ULJM-05297
+Grand Theft Auto:Vice City stories
+Grand Theft Auto - Vice City Stories
+ULJM-05281
+サイレントヒル ゼロ
+Silent Hill Zero
+ULJM-05288
+麻雀覇王ポータブル 段級バトル
+Mahjong Haoh Portable - Dankyuu Battle
+UCJS-10066
+TALKMAN TRAVEL(トークマン トラベル)
+Talkman Travel
+UCJS-10077
+PATAPON(パタポン)
+Patapon
+ULJS-00125
+はじめの一歩 PORTABLE VICTORIOUS SPIRITS
+Hajime no Ippo Portable - Victorious Spirits
+ULJM-05307
+空の軌跡 マテリアルコレクションポータブル
+Sora no Kiseki - Material Collection Portable
+ULJS-00128
+MAPLUSポータブルナビ2
+Maplus - Portable Navi 2
+ULJM-05290
+スターオーシャン First Departure
+Star Ocean - First Departure
+ULJS-00123
+涼宮ハルヒの約束 超プレミアムBOX
+Suzumiya Haruhi no Yakusoku (Super Premium Box)
+ULJM-05295
+XYANIDE：ザイナイド
+Xyanide
+ULJS-00124
+涼宮ハルヒの約束
+Suzumiya Haruhi no Yakusoku
+ULJM-05296
+零式艦上戦闘記 弐
+Zero Shiki Kanjou Sentouki Ni
+ULJS-00119
+イノセントライフ～新牧場物語 Best Collection
+Innocent Life - Shin Bokujou Monogatari (Best Collection)
+ULJM-05270
+ワールドサッカーウイニングイレブン ユビキタスエヴォリューション 2008
+World Soccer Winning Eleven - Ubiquitous Edition 2008
+ULJM-05299
+ユグドラ・ユニオン
+Yggdra Union
+ULJM-05302
+セガラリー REVO
+Sega Rally Revo
+ULJS-00127
+太平洋の嵐 ～戦艦大和、暁に出撃す～
+Taiheiyou no Arashi
+ULJS-00131
+機動戦士ガンダム ギレンの野望 アクシズの脅威
+Gundam - Gihren no Yabou - Axis no Kyoui
+UCJS-10061
+Coded Soul - 受け継がれしイデア -
+Coded Soul - Uke Tsugareshi Idea
+ULJM-05301
+Medal of Honor Heroes 2
+Medal of Honor - Heroes 2
+ULJM-05314
+無双 OROCHI
+Musou Orochi
+ULJM-05315
+スペースインベーダー エクストリーム
+Space Invaders Extreme
+ULJM-05308
+ニード・フォー・スピード プロストリート
+Need for Speed - ProStreet
+UCJS-10081
+無限回廊
+Mugen Kairou
+ULJS-00132
+テイルズ オブ リバース
+Tales of Rebirth
+ULJS-00133
+トゥームレイダー アニバーサリー
+Tomb Raider - Anniversary
+ULJS-00137
+海腹川背Portable
+Umihara Kawase Portable
+ULJM-05500
+モンスターハンターポータブル 2nd G
+Monster Hunter Portable 2nd G
+ULJS-00135
+コードギアス 反逆のルルーシュ LOST COLORS
+Code Geass - Hangyaku no Lelouch - Lost Colors
+ULJS-00136
+デッドヘッドフレッド ～首なし探偵の悪夢～
+Dead Head Fred
+ULJM-05325
+スターオーシャン2 Second Evolution
+Star Ocean - Second Evolution
+UCJS-10078
+MyStylist
+MyStylist
+ULJM-05331
+ナンプレ10000問
+Numpla 10000-Mon
+ULJM-05332
+ヴァンテージマスターポータブル
+Vantage Master Portable
+ULJM-05328
+ミステリート PORTABLE ～八十神かおるの挑戦～
+Mystereet Portable
+ULJS-00139
+みんなの地図3 Disc_1
+Minna no Chizu 3 Disc_1
+ULJS-00140
+みんなの地図3 Disc_2
+Minna no Chizu 3 Disc_2
+UCJS-10080
+ニッポンのあそこで
+Nippon no Asoko de
+UCJS-10082
+BLEACH ～ヒート・ザ・ソウル5～
+Bleach - Heat the Soul 5
+ULJS-00141
+いくぜっ！源さん ～夕焼け大工物語～
+Ikuze! Gen-San - Yuuyake Daiku Monogatari
+ULJM-05326
+競馬通ポータブル JRA公式データ22年分収録
+Keibatsuu Portable
+ULJS-00126
+大戦略 VII エクシード
+Daisenryaku VII Exceed
+ULJS-00138
+ヴァルハラナイツ 2
+Valhalla Knights 2
+ULJM-05334
+メモリーズオフ
+Memories Off
+ULJM-05335
+メモリーズオフ 2nd
+Memories Off 2nd
+ULJM-05300
+実況パワフルプロ野球ポータブル3
+Jikkyou Powerful Pro Yakyuu Portable 3
+ULJM-05338
+CLANNAD Disc_1
+Clannad Disc_1
+ULJM-05339
+CLANNAD Disc_2
+Clannad Disc_2
+ULJM-05336
+MEDICAL91 for Portable
+Medical 91 Portable
+ULJS-00143
+スーパーロボット大戦Aポータブル
+Super Robot Taisen A Portable
+ULJM-05086
+幻想水滸伝 I&II (v2)
+Gensou Suikoden I & II (v2)
+ULJS-00044
+ワールド・ネバーランド 2in1 Portable ～オルルド王国物語＆プルト共和国物語～
+World Neverland 2-in-1 Portable
+ULJM-05343
+剣と魔法と学園モノ。
+Ken to Mahou to Gakuen Mono
+ULJM-05341
+ウイニングポスト6 2008
+Winning Post 6 2008
+ULJM-05347
+神曲奏界ポリフォニカ 0～4話フルパック
+Shinkyouku Soukai Polyphonica 0-4 wa Full Pack
+ULJM-05352
+みんなで読書 名作＆推理＆怪談＆文学
+Minna de Dokusho - Meisaku & Suiri & Kaidan & Bungaku
+ULJS-00130
+ポンコツ浪漫大活劇バンピートロット ビークルバトルトーナメント
+Poncotsu Roman Daikatsugeki Bumpy Trot
+ULJM-05348
+ゴッド・オブ・ウォー 落日の悲愴曲
+God of War - Rakujitsu no Hisoukyoku
+ULJS-00142
+新世紀ＧＰＸサイバーフォーミュラ VS
+Shinseiki GPX Cyber Formula VS
+ULJS-00145
+ガンダムバトルユニバース
+Gundam Battle Universe
+ULJM-05354
+ひめひび -Princess Days- ぽーたぶる
+HimeHibi - Princess Days Portable
+ULJM-05355
+ギルティギア イグゼクス アクセントコアプラス
+Guilty Gear XX Accent Core Plus
+ULJM-05353
+英雄伝説 空の軌跡 the 3rd
+Eiyuu Densetsu - Sora no Kiseki the 3rd
+ULJS-00144
+インフィニットループ ～古城が見せた夢～
+Infinite Loop - Kojou ga Miseta Yume
+ULJM-05309
+ファンタシースターポータブル
+Phantasy Star Portable
+ULJS-00020
+太鼓の達人ポータブル (v2)
+Taiko no Tatsujin Portable (v2)
+ULJM-05357
+PC Engine Best Collections 天外魔境コレクション
+PC Engine Best Collection - Tengai Makyou
+ULJM-05358
+PC Engine Best Collections 銀河お嬢様伝説コレクション
+PC Engine Best Collection - Ginga Ojousama Densetsu
+ULJS-00149
+流行り神2 PORTABLE 警視庁怪異事件ファイル
+Hayarigami 2 Portable - Keishichou Kaii Jiken File
+ULJM-05340
+クレイジータクシー ダブルパンチ
+Crazy Taxi - Double Punch
+ULJM-05349
+想い出にかわる君 ～メモリーズオフ～
+Omoide ni Kawaru Kimi - Memories Off
+ULJM-05350
+メモリーズオフ ～それから～
+Memories Off Sorekara
+ULJS-00009
+AI 将棋 (v2)
+AI Shogi (v2)
+ULJM-05360
+フェイト／タイガーころしあむ アッパー
+Fate Tiger - Colosseum Upper
+UCJS-18006
+サルゲッチュP! (v2)
+Saru Get Chu! P! (v2)
+ULJS-00157
+家庭教師ヒットマンREBORN！バトルアリーナ
+Katekyoo Hitman Reborn! Battle Arena
+ULJS-00155
+侍道ポータブル
+Samurai Dou Portable
+ULJM-05374
+ネオ アンジェリーク Special
+Neo Angelique Special
+ULJM-05345
+マナケミア ～学園の錬金術士たち～PORTABLE+
+Mana-Khemia - Gakuen no Renkinjutsushi-tachi Portable +
+ULJM-05377
+PC Engine Best Collection ソルジャーコレクション
+PC Engine Best Collection - Soldier Collection
+ULJM-05337
+プリンセスメーカー5 ポータブル
+Princess Maker 5 Portable
+ULJS-00152
+一騎当千 Eloquent Fist
+Ikki Tousen - Eloquent Fist
+ULJS-00154
+To LOVEる-とらぶる- ドキドキ！臨海学校編
+To Love Ru - Doki Doki Rinkai Gakkou Hen
+ULJS-00147
+大戦略 大東亜興亡史 ～トラ・トラ・トラ ワレ奇襲ニ成功セリ～
+Daisenryaku - Daitoua Kouboushi
+ULJS-00161
+乃木坂春香の秘密 こすぷれ、はじめました 『秘密のラジオ』
+Himitsu no Radio
+ULJM-05384
+梅沢由香里のやさしい囲碁
+Umewaza Ykari no Yasashi Igo
+ULJS-00158
+マクロスエースフロンティア
+Macross Ace Frontier
+ULJS-00086
+エースコンバットX スカイズ・オブ・デセプション
+Ace Combat X - Skies of Deception (v2)
+UCJS-10086
+勇者のくせになまいきだ or2
+Yuusha no Kuse ni Namaikida or2
+ULJM-05369
+ガーネットクロニクル ～紅輝の魔石～
+Garnet Chronicle
+UCJS-10085
+BLEACH ～ソウル・カーニバル～
+Bleach Soul Carnival
+ULJM-05386
+NBAライブ09
+NBA Live 09
+ULJM-05393
+みんなで読書 ケータイ小説ですぅ～
+Minna de Dokusho - Ke-tai Shousetsu Desu
+ULJM-05375
+萌える麻雀 もえじゃん! ぷれみあむぼっくす
+Moeru Mahjong - Moe-Jong (Premium Box)
+ULJM-05365
+カルディナルアーク ポータブル
+Cardinal Arc Portable
+ULJM-05381
+注文しようぜ！俺たちの世界
+Chuumon Shiyouze! Oretachi no Sekai
+ULJS-00159
+戦国絵札遊戯 不如帰-HOTOTOGISU-乱
+Sengoku Efuda Yuugi - Hototogisu Ran
+ULJM-05382
+ZERO PILOT 第三次世界大戦1946
+Zero Pilot - Daisanji Sekai Taisen 1946
+ULJM-05396
+FIFA09 ワールドクラスサッカー
+FIFA 09 - World Class Soccer
+ULJM-05346
+水月～Portable～
+Suigetsu Portable
+ULJS-00165
+機動戦士ガンダム ガンダム vs．ガンダム
+Kidou Senshi Gundam - Gundam vs. Gundam
+ULJS-00150
+プリニー ～オレが主人公でイイんスか-～
+Prinny - Ore ga Shujinkou de Iinsuka
+UCJS-10084
+クランク＆ラチェット マル秘ミッション☆イグニッション
+Clank & Ratchet - Maru Hi Mission - Ignition
+ULJM-05402
+無双OROCHI 魔王再臨
+Musou Orochi - Maou Sairin
+ULJM-05373
+遊戯王デュエルモンスターズGX タッグフォース3
+Yu-Gi-Oh! Duel Monsters GX Tag Force 3
+UCJS-10089
+パタポン 2 ドンチャカ♪
+Patapon 2 - Don-Chaka
+ULJS-00166
+喧嘩番長3 ～全国制覇～
+Kenka Banchou 3 - Zenkoku Seiha
+ULJM-05388
+ひぐらしデイブレイクPortable
+Higurashi Daybreak Portable
+ULJS-00160
+萌え萌え2次大戦(略)☆デラックス
+Moe Moe 2-ji Taisen Ryoku Deluxe
+UCJS-10087
+LocoRoco 2
+Loco Roco 2
+ULJM-05392
+Zwei!!
+Zwei!!
+ULJM-05344
+Panic Palette Portable
+Panic Palette Portable
+ULJS-00164
+星色のおくりもの portable
+Hoshiiro no Okurimono Portable
+ULJM-05262
+DISSIDIA FINAL FANTASY
+Dissidia - Final Fantasy
+ULJM-05408
+CRIMSON ROOM Reverse
+Crimson Room Reverse
+ULJM-05406
+最強将棋BONANZA
+Saikyou Shogi Bonanza
+ULJM-05403
+ニード・フォー・スピード アンダーカバー
+Need for Speed - Undercover
+ULJM-05409
+オツゲー 占イナンデス。
+Otsuge- Uranai nan Desu.
+ULJM-05367
+ソルフェージュ～sweet harmony～
+Solfege - Sweet Harmony
+ULJS-00170
+俺たちのサバゲー PORTABLE
+Oretachi no Sabage Portable
+ULJM-05410
+Zill O'll ～infinite plus～
+Zill O'll Infinite Plus
+ULJM-05404
+北斗の拳 ラオウ外伝 天の覇王
+Hokuto no Ken - Raoh Gaiden - Ten no Haoh
+ULJS-00175
+テイルズ オブ ザ ワールド レディアント マイソロジー2
+Tales of the World - Radiant Mythology 2
+ULJM-05399
+緋色の欠片 ポータブル
+Hiiro no Kakera Portable
+ULJS-00176
+ソウルイーター バトルレゾナンス
+Soul Eater - Battle Resonance
+ULJM-05414
+ワールドサッカーウイニングイレブン2009
+World Soccer Winning Eleven 2009
+ULJM-05394
+Memories Off ♯5 とぎれたフィルム
+Memories Off No.5 - Togireta Film
+ULJS-00180
+Midnight Club: L.A. Remix
+Midnight Club - L.A. Remix
+ULJS-00178
+機動戦士ガンダム ギレンの野望 アクシズの脅威V
+Gundam - Gihren no Yabou - Axis no Kyoui V
+ULJS-00169
+アイドルマスターSP ミッシングムーン
+The Idolmaster SP - Missing Moon
+ULJS-00167
+アイドルマスターSP パーフェクトサン
+The Idolmaster SP- Perfect Sun
+ULJS-00168
+アイドルマスターSP ワンダリングスター
+The Idolmaster SP - Wandering Star
+ULJM-05379
+ミマナ イアルクロニクル
+Mimana Iyar Chronicle
+ULJM-05427
+真・三國無双 MULTI RAID
+Shin Sangoku Musou - Multi Raid
+ULJM-05407
+ドラゴンダンス
+Dragon Dance
+ULJM-05418
+仮面のメイドガイ ～ボヨヨンバトルロワイヤル～
+Kamen no Maid Guy - Boyoyon Battle Royale
+ULJM-05428
+金色のコルダ2 f
+Kiniro no Corda 2 F
+ULJM-05435
+ユア・メモリーズオフ～Girl's style
+Your Memories Off - Girl's Style
+ULJM-05383
+Planetarian - ちいさなほしのゆめ
+Planetarian - Chiisana Hoshi no Yume
+UCJS-10090
+RESISTANCE ～報復の刻（とき）～
+Resistance - Houfuku no Toki
+ULJM-05437
+Ever17 -the out of infinity- Premium Edition
+Ever17 - The Out of Infinity Premium Edition
+ULJS-00184
+ドラゴンボール エヴォリューション
+Dragon Ball Evolution
+ULJS-00188
+牧場物語 シュガー村とみんなの願い
+Bokujou Monogatari - Sugar Mura to Minna no Negai
+UCJS-10091
+サルゲッチュ ピポサル戦記
+Saru Get You - Pipo Saru Senki
+ULJM-05424
+ブランディッシュ ダークレヴナント
+Brandish - The Dark Revenant
+ULJM-05390
+零・超兄貴
+Zero Choaniki
+ULJS-00163
+夢想灯籠
+Musou Tourou
+ULJM-05411
+智代アフター ～It's a Wonderful Life～CS Edition
+Tomoyo After - It's a Wonderful Life - CS Edition
+ULJM-05433
+Never7 -the end of infinity-
+Never7 - The End of Infinity
+ULJM-05426
+あやかしびと-幻妖異聞録-PORTABLE
+Ayakashibito Portable
+ULJS-00183
+魔界戦記ディスガイア2 PORTABLE
+Makai Senki Disgaea 2 Portable
+ULJS-00181
+機動戦士ガンダム 戦場の絆ポータブル
+Kidou Senshi Gundam - Senjou no Kizuna Portable
+ULJS-00187
+戦国天下統一
+Sengoku Tenka Touitsu
+ULJM-05450
+サンデーVSマガジン 集結!頂上大決戦
+Sunday Vs Magazine Shuuketsu! Choujou Daikessen
+ULJM-05416
+ハヤテのごとく！！ナイトメアパラダイス
+Hayate no Gotoku - Nightmare Paradise
+ULJM-05447
+ウィル・オ・ウィスプ ポータブル
+Will O' Wisp Portable
+ULJM-05441
+遙かなる時空の中で3 with 十六夜記 愛蔵版
+Harukanaru Toki no Naka de 3 with Izayoiki Aizouban
+ULJM-05436
+戦国BASARA BATTLE HEROES
+Sengoku Basara - Battle Heroes
+ULJM-05456
+新世紀エヴァンゲリオン 鋼鉄のガールフレンド 特別編 ポータブル
+Shinseiki Evangelion Koutetsu no Girlfriend Tokubetsu-Hen
+ULJM-05431
+羊くんならキスしてあげる☆
+Hitsuji-kun nara Kiss Shite Ageru
+ULJM-05440
+ファンタジーゴルフパンヤポータブル
+Fantasy Golf Pangya Portable
+ULJM-05444
+Remember11 -the age of infinity-
+Remember 11 - The Age of Infinity
+ULJM-08021
+剣と魔法と学園モノ。 (the best)
+Ken to Mahou to Gakuen Mono (the best)
+ULJM-05434
+七魂（ＮＡＮＡＴＡＭＡ）～クロニクルオブダンジョンメーカー～
+Nanatama - Chronicle of Dungeon Maker
+ULJS-00191
+絶体絶命都市3 ～壊れゆく街と彼女の歌～
+Zettai Zetsumei Toshi 3
+ULJM-05455
+競馬通2ポータブル
+Keibatsuu Portable 2
+ULJS-00129
+ティル・ナ・ノーグ
+Tir-Na-Nog
+ULJM-05422
+Persona
+Persona
+ULJM-05445
+12Riven -the Ψcliminal of integral-
+12Riven - The Psi-Climinal of Integral
+ULJS-00186
+とらドラＰ！
+Tora Dora Portable!
+ULJM-05459
+アルクのキクタン [Entry]
+Kikuite Oboeru Eitango - Alc no Kikutan Entry
+ULJM-05461
+アルクのキクタン [Advanced]
+Kikuite Oboeru Eitango - Alc no Kikutan Advanced
+ULJM-05419
+Φなる・あぷろーち2～1st priority～ポータブル 初回限定版
+Final Approach 2 - 1st Priority Portable (Limited Edition)
+ULJM-05460
+アルクのキクタン [Basic]
+Kikuite Oboeru Eitango - Alc no Kikutan Basic
+UCJS-10093
+BLEACH ヒート・ザ・ソウル6
+Bleach - Heat the Soul 6
+ULJM-05423
+グローランサー
+Growlanser
+ULJS-00193
+SNK Arcade Classics Vol. 1
+SNK Arcade Classics Vol.1
+ULJM-05463
+バンブーブレード～それからの挑戦～
+Bamboo Blade - Sorekara no Chousen
+ULJM-05458
+うたわれるもの PORTABLE
+Utawarerumono Portable
+ULJS-00195
+勇者３０
+Yuusha 30
+ULJM-05469
+ハローキティのハッピーアクセサリー
+Hello Kitty no Happy Accessory
+ULJM-05466
+ようこそ ひつじ村 ポータブル
+Youkoso Hitsuji-Mura Portable
+ULJS-00201
+EVANGELION ヱヴァンゲリヲン：序
+Evangelion - Jo
+ULJS-00197
+西村京太郎トラベルミステリー悪逆の季節
+Nishimura Kyoutarou Travel Mystery - Akugyaku no Kisetsu
+ULJM-05467
+メモリーズオフ６ ～T-wave～
+Memories Off 6 - T-Wave
+ULJM-05465
+己の信ずる道を征け
+Onore no Shinzuru Michi wo Yuke
+ULJM-05477
+鋼鉄のガールフレンド2ndポータブル
+Shinseiki Evangelion Koutetsu no Girlfriend 2nd Portable
+ULJM-05451
+Fate／unlimited codes PORTABLE
+Fate Unlimited Codes Portable
+UCJS-10092
+銃声とダイヤモンド
+Juusei to Diamond
+ULJM-05478
+ドラスロット ハナハナ祭りダ!!
+DoraSlot - Hana Hana Matsuri Da!!
+ULJM-05464
+Piaキャロットへようこそ!!G.P. ～学園プリンセス～ Portable
+Pia Carrot e Youkoso!! G.P.Gakuen Princess Portable
+ULJS-00196
+VALHALLA KNIGHTS 2 BATTLE STANCE
+Valhalla Knights 2 - Battle Stance
+ULJM-05476
+剣と魔法と学園モノ。2
+Ken to Mahou to Gakuen Mono. 2
+ULJM-05472
+初音ミク -Project DIVA-
+Hatsune Miku - Project Diva
+ULJM-05442
+この青空に約束を-てのひらのらくえん
+Kono Aozora ni Yakusoku wo - Tenohira no Rakuen
+UCJS-10095
+ぼくのなつやすみ4 瀬戸内少年探偵団「ボクと秘密の地図」
+Boku no Natsuyasumi 4
+ULJM-05468
+世界はあたしでまわってる 光と闇のプリンセス
+Sekai wa Atashi de Mawatteru - Hikari to Yami no Princess
+ULJS-00200
+MLB 2K9(英語版)
+MLB 2K9
+ULJM-05474
+Ys I＆II Chronicles
+Ys I & II Chronicles
+ULJM-05490
+Blazing Souls Accelate
+Blazing Souls Accelate
+ULJM-05470
+(PW)Project Witch
+PW - Project Witch
+ULJM-05387
+蘭島物語 レアランドストーリー 少女の約定
+Ranshima Monogatari Rare Land Story - Shoujo no Yakujou
+ULJS-00177
+なりそこない英雄譚～太陽と月の物語～
+Narisokonai Eiyuutan - Taiyou to Tsuki no Monogatari
+ULJM-05473
+メモリーズオフ AfterRain
+Memories Off - After Rain
+ULJM-05492
+ARMORED CORE 3 Portable
+Armored Core 3 Portable
+ULJM-05480
+新世紀エヴァンゲリオン バトルオーケストラ PORTABLE
+Shinseiki Evangelion - Battle Orchestra Portable
+ULJM-05486
+ToHeart PORTABLE
+To Heart Portable
+ULJM-05487
+ToHeart2 PORTABLE
+To Heart 2 Portable
+ULJS-00209
+テイルズ オブ バーサス
+Tales of VS.
+ULJS-00204
+流行り神3 警視庁怪異事件ファイル
+Hayarigami 3 - Keishichou Kaii Jiken File
+ULJM-05511
+STRIKERS 1945 PLUS Portable
+Strikers 1945 Plus Portable
+ULJM-05413
+おおかみかくし
+Ookami Kakushi
+ULJM-05506
+最強 東大将棋デラックス
+Saikyou Toudai Shogi DX
+ULJM-05508
+金色のコルダ2 f アンコール
+Kiniro no Corda 2f Encore
+ULJS-00202
+ソウルキャリバー Broken Destiny
+Soul Calibur - Broken Destiny
+ULJM-05505
+忍者活劇 天誅 参 Portable
+Tenchu San Portable
+ULJS-00203
+ソラユメ ポータブル
+Sorayume Portable
+ULJM-05510
+薄桜鬼 ポータブル
+Hakuouki Portable
+ULJS-00225
+山村美紗サスペンス京都鞍馬山荘殺人事件
+Yamamura Misa Suspense - Kyoto Kuramasansou Satsujin Jiken
+ULJS-00207
+SIMPLE2500 #12 THE 歩兵2～戦友よ先に逝け～
+SIMPLE2500 #12 The Hohei 2 Senyuu yo, Sakini Ike
+ULJS-00217
+侍道2ポータブル
+Samurai Dou 2 Portable
+ULJM-05497
+ハートの国のアリス Disc_1
+Heart no Kuni no Alice Disc_1
+ULJM-05498
+ハートの国のアリス Disc_2
+Heart no Kuni no Alice Disc_2
+ULJS-00199
+MAPLUSポータブルナビ3
+Maplus - Portable Navi 3
+ULJM-05475
+Ys SEVEN
+Ys Seven
+ULJM-05421
+実況パワフルプロ野球ポータブル4
+Jikkyou Powerful Pro Yakyuu Portable 4
+ULJS-00218
+家庭教師ヒットマンREBORN!バトルアリーナ2 スピリットバースト
+Katekyoo Hitman Reborn! Battle Arena 2 - Spirits Burst
+ULJM-05529
+探偵 神宮寺三郎 灰とダイヤモンド
+Tantei Jinguuji Saburo - Hai to Diamond
+ULJM-05479
+遊☆戯☆王 5D's タッグフォース4
+Yu-Gi-Oh! 5D's Tag Force 4
+ULJM-05525
+太閤立志伝V
+Taikou Risshiden V
+ULJS-00219
+428 ～封鎖された渋谷で～
+428 - Fuusa Sareta Shibuya de
+ULJS-00213
+現代大戦略～一触即発・軍事バランス崩壊～
+Gendai Daisenryaku Isshoku Sokuhatsu Gunji Balance Houkai
+UCJS-10100
+グランツーリスモ
+Gran Turismo
+ULJM-05507
+LikeLife every hour
+Like Life Every Hour
+NPJH-50050
+マクロスアルティメットフロンティア
+Macross Ultimate Frontier
+ULJM-05519
+マナケミア2～おちた学園と錬金術士たち～PORTABLE+
+Mana Khemia 2 Portable
+ULJM-05546
+Winning Post 7 2009
+Winning Post 7 2009
+UCJS-10094
+みんなのスッキリ
+Minna no Sukkiri
+ULJM-05495
+鉄のラインバレル
+Kurogane no Linebarrels
+ULJM-05527
+メモリーズオフ#5 encore
+Memories Off 5 - Encore
+ULJS-00172
+ほしがりエンプーサ Portable
+Hoshigari Empusa Portable
+ULJM-05530
+アンデッドナイツ
+Undead Knights
+ULJS-00220
+鋼の錬金術師 FULLMETAL ALCHEMIST 背中を託せし者
+Fullmetal Alchemist Senaka wo Takuseshi Mono
+ULJS-00232
+NBA 2K10 (英語版)
+NBA 2K10
+ULJS-00234
+アトム
+Atom
+ULJS-00229
+アンティフォナの聖歌姫 ～天使の楽譜 Op.A～ 通常版
+Antiphona no Seikahime - Tenshi no Gakufu Op.A
+ULJM-05524
+真・三國無双５ Special
+Shin Sangoku Musou 5 Special
+NPJH-50093
+FIFA10 ワールドクラスサッカー
+FIFA 10 - World Class Soccer
+ULJM-05512
+シャドウオブメモリーズ
+Shadow of Memories
+ULJM-05488
+エルミナージュII ～双生の女神と運命の大地～
+Elminage II - Sousei no Megami to Unmei no Daichi
+ULJS-00235
+喧嘩番長ポータブル
+Kenka Banchou Portable
+NPJH-50040
+ペルソナ3ポータブル
+Shin Megami Tensei - Persona 3 Portable
+UCJS-10096
+時限回廊
+Jigen Kairou
+NPJH-50065
+DISSIDIA FINAL FANTASY UNIVERSAL TUNING
+Dissidia - Final Fantasy - Universal Tuning
+ULJM-05547
+遥かなる時空の中で3 運命の迷宮 愛蔵版
+Harukanaru Toki no Naka de 3 - Unmei no Meikyuu Aizouban
+UCJS-10104
+MotorStorm Raging Ice
+MotorStorm - Raging Ice
+ULJS-00238
+バトルスピリッツ 輝石の覇者
+Battle Spirits - Kiseki no Hasha
+ULJM-05501
+エクシズ・フォルス
+Hexyz Force
+NPJH-50076
+J.LEAGUE プロサッカークラブをつくろう!6 Pride of J
+J.League Pro Soccer Club wo Tsukurou! 6 - Pride of J
+ULJM-05494
+ニードフォースピード シフト
+Need for Speed - Shift
+NPJH-50054
+LUNAR -HARMONY of SILVER STAR-
+Lunar - Harmony of Silver Star
+ULJM-05528
+大正野球娘。～乙女達之青春日記～
+Taishou Yakyuu Musume - Otome Tachi no Seishun Nikki
+ULJM-05491
+十次元立方体サイファーPORTABLE
+Juujigen Ripputai Sypher Portable
+ULJM-05554
+ひぐらしの哭く頃に 雀
+Higurashi no Naku Koro ni - Jan
+ULJM-05553
+WARSHIP GUNNER 2 PORTABLE
+Warship Gunner 2 Portable
+NPJH-50084
+NBA LIVE 10
+NBA Live 10
+ULJM-05540
+戦極姫 ～戦乱に舞う乙女達～
+Sengoku Hime - Senran ni Mau Otometachi
+ULJM-05521
+ぷりサガ！PORTABLE
+Pri-Saga! Portable
+ULJM-05552
+ARMORED CORE SILENT LINE Portable
+Armored Core - Silent Line Portable
+UCJS-10103
+ジャック×ダクスター エルフとイタチの大冒険
+Jak and Daxter - Elf to Itachi no Daibouken
+ULJM-05557
+ひぐらしデイブレイク Portable MEGA EDITION
+Higurashi Daybreak Portable Mega Edition
+ULJM-05523
+いつかこの手が穢れる時に -SPECTRAL FORCE LEGACY-
+Itsuka Kono Te ga Kegareru Toki ni - Spectral Force Legacy
+ULJS-00244
+ラ・ピュセル†ラグナロック
+La Pucelle - Ragnarok
+ULJM-05555
+Lの季節 ダブルポケット
+L no Kisetsu - Double Pocket
+NPJH-50075
+ぷよぷよ7
+Puyo Puyo 7
+ULJM-05562
+学園ヘヴン BOY'S LOVE SCRAMBLE! Disc_1
+Gakuen Heaven - Boy's Love Scramble! Disc_1
+ULJM-05563
+学園ヘヴン BOY'S LOVE SCRAMBLE! Disc_2
+Gakuen Heaven - Boy's Love Scramble! Disc_2
+ULJM-05543
+パズル -ぼくらの48時間戦争-
+Yamada Yuusuke World Puzzle - Bokura no 48 Jikan Sensou
+NPJH-50107
+機動戦士ガンダム ガンダム VS. ガンダム NEXT PLUS
+Kidou Senshi Gundam - Gundam VS. Gundam NEXT PLUS
+NPJH-50043
+ファンタシースターポータブル２
+Phantasy Star Portable 2
+UCJS-10107
+リトルビッグプラネット ポータブル
+Little Big Planet Portable
+NPJH-05541
+ときめきメモリアル4
+Tokimeki Memorial 4
+ULJM-05561
+風雲 新撰組 -幕末伝- Portable
+Fuuun Shinsengumi Bakumatsuden Portable
+ULJS-00236
+NARUTO-ナルト- 疾風伝 ナルティメットアクセル3
+Naruto Shippuden - Narutimate Accel 3
+UCJS-10106
+BLEACH ～ソウル・カーニバル2～
+Bleach - Soul Carnival 2
+NPJH-50119
+R-TYPE TACTICS II -Operation BITTER CHOCOLATE-
+R-Type Tactics II - Operation Bitter Chocolate
+ULJM-05513
+ワールドサッカー ウイニングイレブン 2010
+World Soccer Winning Eleven 2010
+ULJM-05572
+大空軍
+Daikuugun
+NPJH-50007
+F1 2009
+F1 2009
+ULJS-00190
+クイーンズブレイド SPIRAL CHAOS
+Queen's Blade - Spiral Chaos
+ULJM-05568
+ダイスダイス◆ファンタジア
+Dice Dice Fantasia
+ULJM-05542
+らき☆すた ネットアイドル・マイスター
+Lucky Star - Net Idol Meister
+NPJH-50044
+メタルスラッグXX
+Metal Slug XX
+ULJS-00265
+SIMPLE2500 #13 THE悪魔ハンターズ ～ヱクソシスター～
+SIMPLE2500 #13 - The Akuma Hunters - Exorsister
+ULJM-05589
+あかね色に染まる坂 ぽーたぶる
+Akane Iro ni Somaru Saka Portable
+ULJM-05571
+アサシン クリード ブラッドライン
+Assassin's Creed - Bloodlines
+ULJM-05558
+ダライアスバースト
+Darius Burst
+ULJM-05577
+マギウステイル エタニティ ～世界樹と恋する魔法使い～
+MagusTale Eternity - Sekaiju to Koisuru Mahou Tsukai
+ULJS-00174
+Cherryblossom～チェリーブロッサム～Portable
+Cherry Blossom Portable
+ULJS-00211
+みんなのナビ Disc_1
+Minna no Navi Disc_1
+ULJS-00212
+みんなのナビ Disc_2
+Minna no Navi Disc_2
+
+NPJG-00020
+クルトン
+Qruton
+
+ULJM-05600
+キングダム ハーツ バース バイ スリープ
+Kingdom Hearts - Birth by Sleep
+
+ULJS-00241
+魔法少女リリカルなのはA's PORTABLE－THE BATTLE OF ACES－
+Mahou Shoujo Lyrical Nanoha  As Portable THE BATTLE OF
+
+NPJH-50145
+戦場のヴァルキュリア2 ガリア王立士官学校
+Senjou no Valkyria 2
+
+ULJS-00251
+密室のサクリファイス
+Misshitsu no Sacrifice
+
+NPJH-50127
+ときめきメモリアル4
+Tokimeki Memorial 4
+
+ULJM-05605
+ポップンミュージック ポータブル
+Pop'n Music Portable
+
+NPJH-50185
+クラシックダンジョン
+Classic Dungeon
+
+ULJS-00242
+街ingメーカー3×逃走中
+Matching Maker 3 x Tousouchu
+
+
+ULJS-237
+ゴッドイーター
+God Eater
+
+NPJG-00003
+どこでもいっしょ-レッツ学校!トレーニング編
+Dokodemoissho-Let's Gakkou! Training Hen
+
+NPJG-00004
+flOw
+flOw
+
+NPJG-00001
+昇天ビート
+Shoutenbeat
+
+NPJH-0000
+ハムスターチャンネル
+Hamster Channel
+
+NPJG-00013
+STAR STRIKE PORTABLE
+Star Strike Portable
+
+NPJH-00002
+ブレインチャレンジ
+Brain Challenge
+
+NPJG-00017
+Everyday Shooter
+Everyday Shooter
+
+NPJG-00035
+ソーコム： USネイビーシールズ ポータブル
+SOCOM: U.S. Navy SEALs Portable
+
+UCJS-10088
+遠隔捜査 -真実への23日間-
+Enkaku Sousa -Shinjitsu eno 23 Nichikan-
+
+UCJS-10101
+みんなのテニス ポータブル
+Minna No Tennis Portable
+
+ULJM-05305
+英雄伝説 空の軌跡SC Disc_1
+Eiyuu Densetsu - Sora no Kiseki SC Disc_1
+
+ULJM-05306
+英雄伝説 空の軌跡SC Disc_2
+Eiyuu Densetsu - Sora no Kiseki SC Disc_2
+
+ULJM-05303
+空の軌跡 マテリアルコレクションポータブル
+Sora no Kiseki - Material Collection Portable

@@ -1,0 +1,27 @@
+# iso_tool.update
+B	iso_tool本体	./EBOOT.PBP			http://isotool.tfact.net/EBOOT.PBP
+B	UMD IDデータ	./UMD_ID.csv		http://isotool.tfact.net/UMD_ID.csv
+B	pspdecrypt.prx	./pspdecrypt.prx	http://isotool.tfact.net/pspdecrypt.prx
+t	readme.txt		./readme.txt		http://isotool.tfact.net/readme.txt
+T	update.txt		./update.txt		http://isotool.tfact.net/update.txt
+
+# アップデート用ファイルは拡張子を「update」とする
+#
+# フォーマット
+# 各項目は1つ以上のタブ(0x9,\t)で区切る
+
+# 行頭の1文字目がフラグ
+#	# ... コメント
+#	B ... 通常ファイル
+#	t ... テキストファイル(更新後に表示確認あり)
+#	T ... テキストファイル(更新後に強制的に表示)
+#	m ... ディレクリトリ作成
+#	r ... ディレクリトリ削除
+#	d ... ファイル削除
+#
+# 2項目目が表示名称(UTF-8)
+# 3項目目がファイルの設置場所(updateファイルが設置されている場所をカレントとする)
+# 4項目目がオンライン上のファイルの位置
+# 5項目目以降は将来用として予約、何か記載があっても無視されます
+#
+# ファイル操作関係のフォーマットは後日検討
